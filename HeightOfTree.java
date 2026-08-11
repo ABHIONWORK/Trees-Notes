@@ -38,7 +38,6 @@ public class HeightOfTree {
 
         if(node == null){
             return 0;
-
         }
 
         int leftheight = FindHeight(node.left);
